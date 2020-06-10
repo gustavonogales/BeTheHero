@@ -16,11 +16,11 @@ Mobile: People view all incidents and causes and get in touch with the NGO.
 ![Homepage app](.github/mobile-bethehero.png)
 
 
-## Requisitos
+## Requirements
 
 - [NodeJS 12.*](https://nodejs.org/en/download/)
 
-## Tecnologias/Frameworks
+## Technologies/Frameworks
 
 - [React](https://github.com/facebook/react)
 - [Express](https://expressjs.com/)
@@ -35,7 +35,7 @@ Mobile: People view all incidents and causes and get in touch with the NGO.
 
 - *Clean Architecture* -->
 
-## API Execution
+## How to run the API
 
 This project uses SQLite, to create the database run the command below at the backend directory.
 ```
@@ -46,12 +46,12 @@ To run the API:
 ```shell script
 npm run start
 ```
-## Run the React Web app
+## How to run the React Web app
 
 ```
 npm run start
 ```
-## Mobile App (React-native)
+## How to run the mobile App (React-native)
 The Expo framework was used to facilitate the development,
 therefore, run the command below to open a web page so that you can connect the app with an emulator or your physical device using USB or QR Code.
 ```
