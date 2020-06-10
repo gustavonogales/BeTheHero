@@ -1,5 +1,5 @@
 # Be The Hero
-[README (en-us)](README-en-us.md)
+[README (pt-BR)](README.md)
 
 Application that connects NGOs and volunteers.
 
@@ -37,7 +37,7 @@ Mobile: People view all incidents and causes and get in touch with the NGO.
 
 ## API Execution
 
-This project uses SQLite, to create the database run the command below at the backend folder.
+This project uses SQLite, to create the database run the command below at the backend directory.
 ```
 npx knex migrate:run
 ```
@@ -53,7 +53,7 @@ npm run start
 ```
 ## Mobile App (React-native)
 The Expo framework was used to facilitate the development,
-therefore, run the command below to open a web page so that you can connect the app with an amulator or your physical device using USB or QR Code.
+therefore, run the command below to open a web page so that you can connect the app with an emulator or your physical device using USB or QR Code.
 ```
 npm run start
 ```
